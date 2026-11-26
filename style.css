@@ -70,7 +70,7 @@ body {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    height: 400px;
+    min-height: 75vh;
     border: #4a1515 solid 3px;
     border-radius: 15px;
 }
